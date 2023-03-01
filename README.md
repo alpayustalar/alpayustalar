@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋 I'm Alpay, </div>  
   
 
-- 🌱 I’m currently learning Java, Object Oriented Programming, Spring Boot and Front-end techniques  
+- 🌱 I keep improving myself in "Java, Object Oriented Programming, Spring Boot and Front-end techniques".
   
 
 <br/>  
