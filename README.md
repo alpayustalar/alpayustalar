@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋 I'm Alpay, </div>  
   
 
-- 🌱 I used Php - Laravel, Python - Django, C# - Asp.net Core and made projects. I am currently coding projects with Java – Spring Boot technology and improving myself. I am using React in front-end and I also continue to improve myself in React and Spring Boot.
+- 🌱 I am currently coding projects with C# – .net technology and improving myself. I am using Angular in front-end and I also continue to improve myself in Angular and .Net.
   
 
 <br/>  
